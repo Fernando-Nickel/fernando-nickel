@@ -5,7 +5,8 @@
 - 📚 Estudando Front-End
 - 💻 Futuro Programador front-end 
 - 😄 Pronouns: ele/dele
-## Me chamo Fernando Nickel!
+## 
+😎 Me chamo Fernando Nickel!
 <div align="center">
   <a href="https://github.com/Fernando-Nickel">
   <img height="400em" height="400em" src="https://github-readme-stats.vercel.app/api?username=fernando-nickel&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
@@ -26,8 +27,3 @@
   <a href="https://www.linkedin.com/in/fernando-nickel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 ##
-
-
-
-
-
