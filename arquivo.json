@@ -1,0 +1,88 @@
+/*
+# 💻 Minhas configurações .json pessoais
+# 😎 Fernando-Nickel 
+# 📚 Estudando front-end
+*/
+{
+    /*FORMATAÇÃO*/
+    "workbench.colorTheme": "Dracula", //Especifica o tema de cores usado no workbench.
+    "workbench.iconTheme": "material-icon-theme", //Tema icones e pastas.
+    "editor.wordWrap": "on", //Quebra de linha, Largura do visor.
+    "files.autoSave": "afterDelay", //Salvar atomático.
+    "workbench.startupEditor": "newUntitledFile", //Abrir um novo arquivo sem título.
+    "window.closeWhenEmpty": false, //Controla se fechar o último editor também deve fechar a janela.
+    
+    //"MiniMap"
+    "editor.minimap.enabled": false, //Controla minimapa é mostrado.
+    "editor.minimap.scale": 1, //Escala minimapa: 1, 2 ou 3.
+    /*FONTE-EDITOR*/
+    "editor.fontSize": 15, //Tamanho da fonte em pixels.
+    "editor.fontFamily": "Consolas, 'Courier New', monospace", //Controla a família de fontes.
+    "editor.fontWeight": "350", //Controla a espessura da fonte.
+    "editor.detectIndentation": true, //Ativar Tabulação.
+    "editor.tabSize": 4, //O número de espaços ao pressionar 'tab'.
+    "editor.insertSpaces":true, //Inserir espaços ao pressionar Tab.
+    "editor.autoIndent": "full", //Ajustar automaticamente o recuo quando os usuários digitam.
+    "editor.suggest.preview": true, //Visão de sugestor.
+    "editor.suggestOnTriggerCharacters": true, //SugestõeS ao digitar.
+    "editor.lightbulb.enabled": true, //Ativa a lâmpada de ação.
+    "editor.guides.bracketPairs": true, //Abilitar guia de Colchetes {{()}}.
+    "editor.autoClosingBrackets": "always", //Fechamento automatico dos ().
+    "editor.autoClosingQuotes": "always", //Fechamento automatico das aspas "".
+    /*TERMINAL*/ /*Carater */
+    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace", //Família de fontes do terminal
+    "terminal.integrated.fontSize": 15, //Fonte em pixels do terminal.
+    "terminal.integrated.copyOnSelection": true, //Texto selecionado no terminal será copiado na área de transferência.
+    "terminal.integrated.cursorBlinking": true, //Cursor de terminal pisca.
+    "terminal.integrated.cursorStyle": "line", //Estilo do cursor do terminal.
+    "terminal.integrated.cursorWidth": 1, //Largura do cursor.
+    "terminal.integrated.fontWeightBold": "bold", //Espessura da fonte
+    /*EXTENSÕES*/
+    //  
+    /* # Auto Rename Tag */
+    "auto-rename-tag.activationOnLanguage": [
+      "html",
+      "xml",
+      "php",
+      "javascript",
+      "css"
+    ],
+    /* # IntelliSense for CSS class names in HTML */
+    "html-css-class-completion.enableEmmetSupport":true,
+    /*Indent-Rainbow*/
+    "indentRainbow.includedLanguages": [
+      "php", "html", "python", "css", "javascript", "json", "typescript"],
+    /* # Prettier - Code formatter */
+    "prettier.resolveGlobalModules":true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript, php, css, html, python, json, typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    /* # LiveServer */
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    /* # git */
+    "git.enableSmartCommit": true, //Confirmar todas as alterações quando não houver alterações preparadas
+    "git.enableStatusBarSync": true, //Comando de sincronização do Git aparece na barra de status.
+    /* # GitHub Pull Requests and Issues*/
+    "git.pullTags": true,
+    "githubPullRequests.fileListLayout": "flat",
+    "githubPullRequests.queries": [
+      {
+        "label": "Waiting For My Review",
+        "query": "is:open review-requested:${user}"
+      },
+      {
+        "label": "Assigned To Me",
+        "query": "is:open assignee:${user}"
+      },
+      {
+        "label": "Created By Me",
+        "query": "is:open author:${user}"
+      },
+      {
+        "label": "Mentioned Me",
+        "query": "is:open mentions:${user}"
+      }
+    ],  
+  }
