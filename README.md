@@ -2,15 +2,13 @@
 <h1 align="center">Olá,👋 seja bem vindo!!✌</h1>
 <p align="center">🚀Me chamo Fernando Nickel.😎</p>
 <h3 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  Em construção...  🚧
 </h3>
 
 - 🔭 Hoje trabalho como Analista de Sistemas Jr.
 - 🎓 Cursando 3º em Análise e Desenvolvimento de Sistemas.
 - 📚 Estudando Front-End
 - 💻 Meta futuramente me tornar um Programador front-end 
-- 😄 Pronomes: ele/dele
-
 
 <div>
     <a href="https://www.instagram.com/fe_nickel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-  badge&logo=instagram&logoColor=white" target="_blank"></a>
