@@ -1,24 +1,19 @@
 
 <h1 align="center">Olá,👋 seja bem vindo!!✌</h1>
 <p align="center">🚀Me chamo Fernando Nickel.😎</p>
-<h3 align="center"> 
-	🚧  Em construção...  🚧
-</h3>
+
+<div align="center">
+    <a href="https://www.instagram.com/fe_nickel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-  badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/373627370525163521" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="mailto:alves.nickel@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.facebook.com/fernandonickel.nickel.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+</div>
+<h3 align="center"> 🚧Sempre em constante evolução!🚧</h3>
 
 - 🔭 Hoje trabalho como Analista de Sistemas Jr.
 - 🎓 Cursando 3º em Análise e Desenvolvimento de Sistemas.
 - 📚 Estudando programação Front-End.
 - 💻 Meta: Me tornar um Programador front-end.
-
-<div>
-    <a href="https://www.instagram.com/fe_nickel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-  badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/373627370525163521" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="mailto:alves.nickel@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.facebook.com/fernandonickel.nickel.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/fernando-nickel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/github/followers/{fernando-nickel}.svg?style=social&label=Follow&maxAge=2592000"></a>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{fernando-nickel}1212%2Fhit-counter"></a>
-</div>
 
 ##
 ### Dashboard
@@ -55,5 +50,8 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=whit"></a>
     <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"></a>
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/fernando-nickel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/github/followers/{fernando-nickel}.svg?style=social&label=Follow&maxAge=2592000"></a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{fernando-nickel}1212%2Fhit-counter"></a>
 </div>
 
