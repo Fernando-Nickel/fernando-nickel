@@ -7,8 +7,8 @@
 
 - 🔭 Hoje trabalho como Analista de Sistemas Jr.
 - 🎓 Cursando 3º em Análise e Desenvolvimento de Sistemas.
-- 📚 Estudando Front-End
-- 💻 Meta futuramente me tornar um Programador front-end 
+- 📚 Estudando programação Front-End.
+- 💻 Meta: Me tornar um Programador front-end.
 
 <div>
     <a href="https://www.instagram.com/fe_nickel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-  badge&logo=instagram&logoColor=white" target="_blank"></a>
