@@ -4,7 +4,7 @@
 # 📚 Estudando front-end
 */
 {
-    /*FORMATAÇÃO*/
+    /*FORMATACAO*/
     "workbench.colorTheme": "Dracula", //Especifica o tema de cores usado no workbench.
     "workbench.iconTheme": "material-icon-theme", //Tema icones e pastas.
     "editor.wordWrap": "on", //Quebra de linha, Largura do visor.
