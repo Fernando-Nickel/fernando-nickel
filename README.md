@@ -9,10 +9,10 @@
 </div>
 <h3 align="center"> 🚧Sempre em constante evolução!🚧</h3>
 
-- 🔭 Hoje trabalho como Analista de Sistemas Jr.
-- 🎓 Cursando 3º em Análise e Desenvolvimento de Sistemas.
+- 🔭 Hoje trabalho como Analista de Suporte.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 📚 Estudando programação Front-End.
-- 💻 Meta: Me tornar um Programador front-end.
+- 💻 Meta: Me tornar um Dev.
 
 ##
 ### Dashboard
